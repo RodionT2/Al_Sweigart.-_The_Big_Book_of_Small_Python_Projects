@@ -1,4 +1,4 @@
-# Al_Sweigart.-_The_Big_Book_of_Small_Python_Projects
+# Al_Sweigart.-_The_Big_Book_of_Small_Python_Projects \n
 Большая книга проектов Python. Свейгарт Эл
 Это проект для отработки языка Python в общем и Tkinter  в частности.
 Идея в том, чтобы перевести все программки в графический формат и возможно добавить все комментарии из книги.
